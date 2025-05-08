@@ -1,5 +1,5 @@
 zle -N dwim
-bindkey "^U" dwim
+bindkey "^S" dwim
 
 ## Import configuration for various transformations
 ## Order of import may be important, so be careful
